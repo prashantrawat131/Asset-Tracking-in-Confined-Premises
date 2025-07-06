@@ -1,8 +1,12 @@
 # Asset-Tracking-in-Confined-Premises
 Asset tracking systems are vital for managing resources in confined spaces like hotels and hospitals. They reduce loss, enhance efficiency, and provide real-time insights to improve operations and productivity.
 
-## YouTube Link
+## Video Links
 https://youtu.be/zWpXuLOgyOM?si=68-Ao58v3-Z6q_vm
+
+or 
+
+https://drive.google.com/file/d/16yhtQhptQlMRBGvQr_g5UWMwyczzjYFI/view?usp=sharing 
 
 ## BeaconAndroidApp:
 - This is the Android App for the beacons. This app releases the beacon signal and the beacon signal is received by the ESP32. The ESP32 then sends the data to the server (Raspberry Pi) which then sends the summary to the dashboard.
